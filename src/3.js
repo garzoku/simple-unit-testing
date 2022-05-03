@@ -38,4 +38,4 @@ function getMentorInfo(mentors, name) {
 
 var result = getMentorInfo(mentors, 'Etza')
 
-module.exports = getMentorInfo
+module.exports = { getMentorInfo, mentors }

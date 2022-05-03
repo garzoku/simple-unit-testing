@@ -4,7 +4,7 @@
   "description": "For each piece of working code in the `/src` directory:",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --watch"
   },
   "keywords": [],
   "author": "",
